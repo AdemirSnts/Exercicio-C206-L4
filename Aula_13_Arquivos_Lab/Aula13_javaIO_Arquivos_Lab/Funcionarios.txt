@@ -1,0 +1,4 @@
+++ FUNCIONARIO ++
+ade
+2000.0
+25
